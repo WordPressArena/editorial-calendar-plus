@@ -1,0 +1,204 @@
+# Translation of the WordPress plugin   by .
+# Copyright (C) 2010
+# This file is distributed under the same license as the  package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2010.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: editorial-calendar-el\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/editorial-calendar\n"
+"POT-Creation-Date: 2010-04-13 21:19+0000\n"
+"PO-Revision-Date: 2010-04-14 07:58-0500\n"
+"Last-Translator: Zack Grossbart <zack@grossbart.com>\n"
+"Language-Team: Mihalis Papanousis - http://aenaon.biz <fotonews@aenaon.biz>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Greek\n"
+"X-Poedit-Country: GREECE\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#: editorial_calendar_plus.php:63
+msgid "Calendar"
+msgstr "Ημερολόγιο άρθρων"
+
+#: editorial_calendar_plus.php:137
+#: editorial_calendar_plus.php:349
+msgid "en-US"
+msgstr "el-GR"
+
+#: editorial_calendar_plus.php:145
+msgid "on"
+msgstr "στις"
+
+#: editorial_calendar_plus.php:146
+msgid "by"
+msgstr "by-μέχρι"
+
+#: editorial_calendar_plus.php:147
+msgid "at"
+msgstr "στις"
+
+#: editorial_calendar_plus.php:149
+msgid "New Post"
+msgstr "Νέο άρθρο"
+
+#: editorial_calendar_plus.php:151
+msgid " [DRAFT]"
+msgstr " [ΠΡΟΣΧΕΔΙΟ]"
+
+#: editorial_calendar_plus.php:152
+msgid "Edit"
+msgstr "Επεξεργασία"
+
+#: editorial_calendar_plus.php:153
+msgid "Delete"
+msgstr "Διαγραφή"
+
+#: editorial_calendar_plus.php:154
+msgid "View"
+msgstr "Προβολή"
+
+#: editorial_calendar_plus.php:155
+msgid "Republish"
+msgstr "Επαναδημοσίευση"
+
+#: editorial_calendar_plus.php:156
+msgid "Status:"
+msgstr "Κατάσταση"
+
+#: editorial_calendar_plus.php:157
+#: editorial_calendar_plus.php:295
+msgid "Cancel"
+msgstr "Ακύρωση"
+
+#: editorial_calendar_plus.php:158
+#: editorial_calendar_plus.php:261
+msgid "Title"
+msgstr "Τίτλος"
+
+#: editorial_calendar_plus.php:159
+#: editorial_calendar_plus.php:266
+msgid "Content"
+msgstr "Κείμενο"
+
+#: editorial_calendar_plus.php:160
+msgid "Add a new post on "
+msgstr "Προσθήκη νέου άρθρου στις"
+
+#: editorial_calendar_plus.php:161
+msgid "New Post - "
+msgstr "Νέο άρθρο -"
+
+#: editorial_calendar_plus.php:162
+msgid "Update"
+msgstr "Ενημέρωση"
+
+#: editorial_calendar_plus.php:163
+#: editorial_calendar_plus.php:294
+msgid "Schedule"
+msgstr "Προγραμματισμός δημοσίευσης"
+
+#: editorial_calendar_plus.php:164
+msgid "Save"
+msgstr "Αποθήκευση"
+
+#: editorial_calendar_plus.php:165
+#: editorial_calendar_plus.php:255
+msgid "Edit Post"
+msgstr "Επεξεργασία άρθρου"
+
+#: editorial_calendar_plus.php:166
+#: editorial_calendar_plus.php:287
+msgid "Scheduled"
+msgstr "Να δημοσιευθεί στις"
+
+#: editorial_calendar_plus.php:168
+msgid "You are about to delete the post \""
+msgstr "Πρόκειται να διαγράψετε το άρθρο \""
+
+#: editorial_calendar_plus.php:169
+msgid "\". Press Cancel to stop, OK to delete."
+msgstr "\". Πατήστε Ακύρωση για να σταματήσετε, OK για διαγραφή."
+
+#: editorial_calendar_plus.php:171
+msgid "Looks like someone else already moved this post."
+msgstr "Φαίνεται πως κάποιος άλλος ήδη μετακίνησε αυτό το άρθρο."
+
+#: editorial_calendar_plus.php:172
+msgid "You do not have permission to edit posts."
+msgstr "Δεν έχετε δικαιώματα επεξεργασίας άρθρων."
+
+#: editorial_calendar_plus.php:173
+msgid "Invalid checksum for post. This is commonly a cross-site scripting error."
+msgstr "Μη έγκυρο άθροισμα μνήμης. Συνήθως οφείλεται σε 'cross-site scripting' (XSS)."
+
+#: editorial_calendar_plus.php:174
+msgid "There was an error contacting your blog."
+msgstr "Υπήρξε σφάλμα επικοινωνίας με το ιστολόγιο σας."
+
+#: editorial_calendar_plus.php:176
+msgid "Screen Options"
+msgstr "Επιλογές οθόνης"
+
+#: editorial_calendar_plus.php:177
+msgid "Calendar Options"
+msgstr "Επιλογές ημερολογίου"
+
+#: editorial_calendar_plus.php:178
+msgid "Apply"
+msgstr "Εφαρμογή"
+
+#: editorial_calendar_plus.php:179
+msgid "Show "
+msgstr "Εμφάνιση"
+
+#: editorial_calendar_plus.php:180
+msgid "weeks at a time"
+msgstr "εβδομάδων ανα οθόνη"
+
+#: editorial_calendar_plus.php:181
+msgid "The calendar can only show between 1 and 5 weeks at a time."
+msgstr "Το ημερολόγιο μπορεί να εμφανίσει απο 1 έως και 5 εβδομάδες ανα οθόνη."
+
+#: editorial_calendar_plus.php:182
+msgid "Select the number of weeks for the calendar to show."
+msgstr "Εισάγετε τον αριθμό των εβδομάδων (1-5) για εμφάνιση στην οθόνη του ημερολογίου."
+
+#: editorial_calendar_plus.php:226
+msgid "Posts Calendar"
+msgstr "Ημερολόγιο άρθρων"
+
+#: editorial_calendar_plus.php:235
+msgid "Jump back"
+msgstr "Μετάβαση μια οθόνη πίσω"
+
+#: editorial_calendar_plus.php:237
+msgid "Skip ahead"
+msgstr "Μετάβαση μια οθόνη μπροστά"
+
+#: editorial_calendar_plus.php:242
+msgid "Jump to today"
+msgstr "Μετάβαση στη σημερινή ημερομηνία"
+
+#: editorial_calendar_plus.php:242
+msgid "Today"
+msgstr "Σήμερα"
+
+#: editorial_calendar_plus.php:281
+msgid "Time"
+msgstr "Ώρα"
+
+#: editorial_calendar_plus.php:285
+msgid "Status"
+msgstr "Κατάσταση"
+
+#: editorial_calendar_plus.php:289
+msgid "Draft"
+msgstr "Προσχέδιο"
+
+#: editorial_calendar_plus.php:544
+#: editorial_calendar_plus.php:547
+msgid "Error in deleting..."
+msgstr "Υπήρξε σφάλμα κατα τη διαγραφή..."
+
